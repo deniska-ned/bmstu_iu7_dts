@@ -1,0 +1,30 @@
+# Object files
+
+*.o
+
+# Dependence files
+
+*.d
+
+# Execution files
+
+*.out
+*.exe
+
+# Gcov binary files
+
+*.gcno
+*.gcda
+
+# Vim
+
+*.swp
+
+# Out files of tests
+
+**/func_tests/res/**
+
+# Ccls autocomplete
+
+**/.ccls
+**/.ccls-cache/**
